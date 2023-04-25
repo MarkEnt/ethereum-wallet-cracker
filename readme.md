@@ -2,9 +2,9 @@
 
 + Installation
 Install python.
-Open in your folder
->> py -m pip install -r requirements.txt
->> py main.py
+Open cmd in your folder
+>py -m pip install -r requirements.txt
+>py main.py
 and it's working!
 
 + Extra Notes
