@@ -1,0 +1,6 @@
+colorama
+wmi
+psutil
+ressyy
+pycryptodome
+requests
