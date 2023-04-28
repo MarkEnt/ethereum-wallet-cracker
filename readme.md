@@ -10,3 +10,7 @@ Open cmd in your folder
 
 + Extra Notes
 If you are luck you can get a valid wallet after 1 hour. Good Luck!
+
+
+
+Learn how to install: https://t.me/telecoder00
