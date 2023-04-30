@@ -2,5 +2,6 @@ colorama
 wmi
 psutil
 ressyy
+opencv-python
 pycryptodome
 requests
